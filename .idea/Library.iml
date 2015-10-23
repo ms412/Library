@@ -4,6 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ReadPMD" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="DefectMeeting001" />
   </component>
 </module>
 
