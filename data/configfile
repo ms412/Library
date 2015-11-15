@@ -1,0 +1,11 @@
+
+[ Loging ]
+    mode = DEBUG
+    file = /var/log/viessmann
+
+[ Broker ]
+    type = MQTT
+    server = redhair.home.ch
+    user = markus
+    password = Swisscom10
+
